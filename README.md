@@ -1,1 +1,3 @@
-# AWS-lamvda
+# AWS-lambda
+
+Learning Lambda
